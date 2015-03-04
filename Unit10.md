@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC431: Public Policy Process"
+course_description: "An examination of the process behind public policy in various policy areas within contemporary American society, including budgeting and taxes, national security, health, the environment, education, civil rights, and criminal justice."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Social Policy** <span id="10"></span> 
 *There many other areas of American public policy that prompt debate
 among policymakers, including those dealing with topics in the larger

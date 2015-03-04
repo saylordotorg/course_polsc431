@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC431: Public Policy Process"
+course_description: "An examination of the process behind public policy in various policy areas within contemporary American society, including budgeting and taxes, national security, health, the environment, education, civil rights, and criminal justice."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Policy Implementation, Budgeting, and Evaluation** <span
 id="3"></span> 
 *The final three aspects of the public policymaking cycle involve the

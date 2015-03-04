@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC431: Public Policy Process"
+course_description: "An examination of the process behind public policy in various policy areas within contemporary American society, including budgeting and taxes, national security, health, the environment, education, civil rights, and criminal justice."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: American Economic Policy** <span id="4"></span> 
 *During times of economic strife, Americans tend to blame their elected
 representatives—often voting against sitting presidents and incumbent

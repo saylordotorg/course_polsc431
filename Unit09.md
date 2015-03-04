@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC431: Public Policy Process"
+course_description: "An examination of the process behind public policy in various policy areas within contemporary American society, including budgeting and taxes, national security, health, the environment, education, civil rights, and criminal justice."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Public Policy in Rural Areas of America** <span
 id="9"></span> 
 *Delivering public services to rural areas of this country offers a

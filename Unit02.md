@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC431: Public Policy Process"
+course_description: "An examination of the process behind public policy in various policy areas within contemporary American society, including budgeting and taxes, national security, health, the environment, education, civil rights, and criminal justice."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Public Policy Formulation** <span id="2"></span> 
 *The study of how public policies are formulated explores the specifics
 of putting together policies that will then be enacted.  The formulation

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC431: Public Policy Process"
+course_description: "An examination of the process behind public policy in various policy areas within contemporary American society, including budgeting and taxes, national security, health, the environment, education, civil rights, and criminal justice."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: National Security Policy** <span id="5"></span> 
 *Protecting the American public from foreign and domestic threats is
 largely the responsibility of the president in his role as

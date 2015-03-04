@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC431: Public Policy Process"
+course_description: "An examination of the process behind public policy in various policy areas within contemporary American society, including budgeting and taxes, national security, health, the environment, education, civil rights, and criminal justice."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Environmental Policy** <span id="7"></span> 
 *Environmental policy has been politicized in recent decades, with
 Democrats tending to be labeled as the “greener” of the two major
