@@ -152,3 +152,4 @@ on Monday and Tuesday night of week two, etc.
 - [Unit 9](https://legacy.saylor.org/polsc431/Unit09/)
 - [Unit 10](https://legacy.saylor.org/polsc431/Unit10/)
 - [Unit 11](https://legacy.saylor.org/polsc431/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC431/POLSC431-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC431/POLSC431-FinalExam-Answers.html)
